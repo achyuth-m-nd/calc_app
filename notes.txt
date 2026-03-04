@@ -1,3 +1,2 @@
 Hello Git
 Another line
-Line to be reverted
